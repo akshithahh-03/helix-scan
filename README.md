@@ -9,7 +9,7 @@ It runs in the browser with no hardware or installation needed, and presents res
 
 ## live demo
 
-https://incredible-sorbet-f97407.netlify.app/
+ https://akshithahh-03.github.io/helix-scan/
 
 ## ✨ Features
 
